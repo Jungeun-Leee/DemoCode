@@ -1,12 +1,12 @@
 import React from "react";
 
 function Note() {
-  return (
-    <div className="note">
-      <h1>This is a drill</h1>
-      <p>checking if we can deploye our website</p>
-    </div>
-  );
+    return (
+        <div className="note">
+            <h1>Items Currently Posted</h1>
+            <p>Check for availabilty</p>
+        </div>
+    );
 }
 
 export default Note;
