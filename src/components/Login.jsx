@@ -13,8 +13,8 @@ function clickHandle(event) {
         <Items
             name="Football"
             img="https://media.gettyimages.com/vectors/sports-doodles-vector-id1138038099?k=6&m=1138038099&s=612x612&w=0&h=ErsbpKijYhBTSAJ2tF8E0oOAVpOCpyrfhY_bgoIIuKE="
-
-            tel="89885985"
+            course = "Related Class: Hobby"
+            tel="Contact: 89885985"
             price="$60"
         />
 
@@ -22,14 +22,16 @@ function clickHandle(event) {
         <Items
             name="Laptop"
             img="https://image.shutterstock.com/image-vector/laptop-cartoon-vector-illustration-computer-260nw-1292073241.jpg"
-            tel="89885985"
+            course="Related Class: Any Major"
+            tel="Contact: 89885985"
             price="$200"
         />
 
         <Items
             name="Calculator"
             img="https://media.officedepot.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_1665,q_auto,w_1250/c_pad,h_1665,w_1250/v1/products/176928/176928_o51?pgw=1&pgwact=1"
-            tel="1139445"
+            course="Related Class: Any Major"
+            tel="Contact: 1139445"
             price="$50"
         />
 

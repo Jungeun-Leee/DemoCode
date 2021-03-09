@@ -8,6 +8,7 @@ function Items(props) {
                 <img className="circle-img" src={props.img} alt="avatar_img" />
             </div>
             <div className="bottom">
+                <p className="info">{props.course}</p>
                 <p className="info">{props.tel}</p>
                 <p className="info">{props.price}</p>
             </div>
